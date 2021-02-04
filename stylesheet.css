@@ -18,3 +18,6 @@
 .paperwm-selection {
     border-radius: 8px;
 }
+
+
+.tile-preview { border-color: yellow; background-color: rgba(255, 255, 0, 0.5); }
